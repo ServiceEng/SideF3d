@@ -92,6 +92,7 @@ model-viewer{
 }
 
 .Hotspot2 {
+	display: none;
 	background: transparent;
 	border-radius: 20px;
 	border: 0;
